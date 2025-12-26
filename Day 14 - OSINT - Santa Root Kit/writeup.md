@@ -2,7 +2,7 @@
 
 ![jason](media/jbash.jpg)
 
-## Contexte
+## Context
 > Oh no, it looks like the Grinch’s assistant pwned us !
 > Luckily, our experts managed to recover two key informations:
 > - A file hash: ```bf6a54d181b9bbcb168720b9d466ca27d14ead283220ee5a9e777352c16edca3```
